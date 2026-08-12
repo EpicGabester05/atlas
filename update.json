@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.3",
   "download_url": "",
-  "notes": "Initial Atlas desktop release."
+  "notes": "Improved desktop voice controls, responsive Talk layout, and GitHub update checking."
 }
